@@ -1,2 +1,4 @@
 /.idea/
 /target/
+/.m2/repository/
+/.output.txt
